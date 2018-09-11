@@ -13,7 +13,14 @@ fluctuating polarizations of nearby particles.[1]
 
 1s=1e15 fs
 
-> Bug: interaction during moving don't take accout.
+> Bug: interaction during moving don't take accout---> decrease step length.
+
+Thermodynamics propertics:
+- Temperature: meansure kinetic energies of individual atoms, a averaged kinetic
+energy, 3/2 k_bT=E_Kin /N
+- Pressure: PV=N*k_b* T + 1/3<\sum_{r_i}{F_i}>
+
+
 
 ## Reference
 -[1] Wikipedia: Van der Waals force
